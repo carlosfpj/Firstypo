@@ -1,0 +1,2 @@
+# Firstypo
+First Typescript playground
